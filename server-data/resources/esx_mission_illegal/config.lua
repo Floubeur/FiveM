@@ -4,7 +4,7 @@ Config.Locale                     = 'fr'
 Config.Price                      = '5000'
 Config.MinimunmPolice 			  = 1
 Config.MinimunmPack	  			  = 1
-Config.nmbrennemis         		  = 2 
+Config.nmbrennemis         		  = 1
 Config.Size           			  = {x = 1.5, y = 1.5, z = 1.0}
 Config.Color          			  = {r = 255, g = 0, b = 0 }
 
