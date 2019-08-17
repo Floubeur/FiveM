@@ -2,12 +2,12 @@ Locales['fr'] = {
 
   ['press_to_open'] = 'appuyez sur ~INPUT_CONTEXT~ pour accéder au menu',
   ['press_Touch']   = 'appuyez sur ~INPUT_CONTEXT~ pour livrer la drogue',
-  ['charge_car']    = 'appuyez sur ~INPUT_CONTEXT~ pour charger la voiture'
+  ['charge_car']    = 'appuyez sur ~INPUT_CONTEXT~ pour charger la voiture',
   ['lvl_robber']    = 'Bandit lvl : ',
   ['mission_1']     = 'Faire un gofast',
   ['mission_2']     = 'Meurte premier categorie',
   ['mission_3']     = 'Meurte deuxième categorie',
-  ['mission_4']     = 'mission_4',
+  ['mission_4']     = 'Braquage fourgon blindé ',
   ['mission_5']     = 'mission_5',
   ['create_robber'] = 'Devenir un bandit : ',
 

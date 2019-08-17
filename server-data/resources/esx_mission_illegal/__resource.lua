@@ -7,8 +7,8 @@ client_scripts {
   'config.lua',
   'client/main.lua',
   'client/Mission/gofast.lua',
-  'client/Mission/killNPC.lua',
-  'client/Mission/killPLAYER.lua'
+  'client/Mission/killNPC.lua'
+
 }
 
 server_scripts {
